@@ -1,0 +1,4 @@
+#Tue Sep 05 11:28:43 KST 2017
+base.0=/Users/pratham.sharma/Desktop/Pay/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/pratham.sharma/Desktop/Pay/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
